@@ -48,6 +48,7 @@ Output:-
 ```
 ### To decrypt
 First, we will execute the above code and then we will get the key and the encrypted message
+
 After that,
 ```python
 # This full code is after the above code
@@ -65,3 +66,5 @@ Output:-
 [CODE](https://github.com/chetan0402/crypto-sim/)
 
 [LICENSE](https://github.com/chetan0402/crypto-sim/blob/master/LICENSE.txt)
+
+[See what's new in the next project](https://github.com/chetan0402/crypto-sim/blob/master/new.txt)
