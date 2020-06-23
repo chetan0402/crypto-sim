@@ -1,1 +1,1 @@
-In the next project there will be detection of if the input in byte or str
+Tell what you need next in issues
