@@ -13,6 +13,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        "cryptography ~= 2.9.2"
+        "cryptography>=3.2"
     ]
 )
